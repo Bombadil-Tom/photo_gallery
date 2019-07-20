@@ -10,7 +10,7 @@ The PhotoGallery should allow users to either click or swipe through images.
 Smoothly animate the swipe and transition between images.
 Handle any edge cases you can think of.
 
-Plan:
+# Plan:
 
 ## PhotoGallery Component
 
