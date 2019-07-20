@@ -33,18 +33,18 @@ Plan:
 
 ## Handle Edge Cases
 
-- Image not found
+- Image not found:
   Don't display image
-- Image file corrupted
+- Image file corrupted:
   Don't display image
-- No caption
+- No caption:
   Don't display caption
-- No image url
+- No image url:
   Don't display image
-- Image size large
+- Image size large:
   First render spinner
   Then lazy load
-- Landscape vs portrait photos
+- Landscape vs portrait photos:
   Have a column structure with set width and height
-- Panorama photos
+- Panorama photos:
   Shrink them down
