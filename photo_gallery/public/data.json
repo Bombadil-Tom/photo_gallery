@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "caption": "A nice moment captured with a drone",
+    "filename": "drone_shot.jpeg",
+    "url": "images/drone_shot.jpeg"
+  },
+  {
+    "id": 2,
+    "caption": "Escalators in a shopping mall",
+    "filename": "escalators.jpeg",
+    "url": "images/"
+  },
+  {
+    "id": 3,
+    "caption": "A nice meal",
+    "filename": "food.jpeg",
+    "url": "images/"
+  },
+  {
+    "id": 4,
+    "caption": "Hipster breakfast",
+    "filename": "hipster_breakfast.jpeg",
+    "url": "images/"
+  },
+  {
+    "id": 5,
+    "caption": "A lazy sunday in bed",
+    "filename": "lazy_sunday.jpeg",
+    "url": "images/"
+  },
+  {
+    "id": 6,
+    "caption": "Art with lights",
+    "filename": "lights.jpeg",
+    "url": "images/"
+  },
+  {
+    "id": 7,
+    "caption": "A Lighttower",
+    "filename": "lighttower.jpeg",
+    "url": "images/"
+  },
+  {
+    "id": 8,
+    "caption": "A day in the museum",
+    "filename": "museum.jpeg",
+    "url": "images/museum.jpeg"
+  },
+  {
+    "id": 9,
+    "caption": "A nice view",
+    "filename": "nice_view.jpeg",
+    "url": "images/nice_view.jpeg"
+  },
+  {
+    "id": 10,
+    "caption": "Reflection",
+    "filename": "reflection.jpeg",
+    "url": "images/reflection.jpeg"
+  }
+]
