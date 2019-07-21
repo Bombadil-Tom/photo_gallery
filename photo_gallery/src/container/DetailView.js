@@ -8,7 +8,7 @@ const DetailView = ({ handleClick, img: { url, id, caption } }) => (
     <Button title={"next"} action={"next"} onClick={handleClick} />
     <Button title={"close"} action={"close"} onClick={handleClick} />
     <div>{caption}</div>
-    <img src={url} />
+    <img src={url} alt={caption} />
   </div>
 );
 
