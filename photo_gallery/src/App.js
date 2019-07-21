@@ -1,7 +1,9 @@
 import React from "react";
 
+import PhotoGallery from "container/PhotoGallery";
+
 function App() {
-  return <div>Hello World/></div>;
+  return <PhotoGallery />;
 }
 
 export default App;
